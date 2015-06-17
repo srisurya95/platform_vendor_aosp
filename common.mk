@@ -87,6 +87,11 @@ PRODUCT_PACKAGES += \
     PhotoTable \
     SoundRecorder \
     PhotoPhase
+    
+# Extra Optional packages
+PRODUCT_PACKAGES += \
+    SlimFileManager \
+    Eleven
 
 # Telephony packages
 PRODUCT_PACKAGES += \
