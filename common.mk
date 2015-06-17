@@ -90,8 +90,7 @@ PRODUCT_PACKAGES += \
     
 # Extra Optional packages
 PRODUCT_PACKAGES += \
-    SlimFileManager \
-    Eleven
+    SlimFileManager 
 
 # Telephony packages
 PRODUCT_PACKAGES += \
